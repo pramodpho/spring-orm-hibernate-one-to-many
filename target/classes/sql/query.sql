@@ -1,0 +1,1 @@
+UserDao.getUserList = select userid, username, password, status  from user
