@@ -8,7 +8,7 @@
     <name>attendance</name>
 
     <properties>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <hibernate.version>5.4.2.Final</hibernate.version>
     </properties>
 
